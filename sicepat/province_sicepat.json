@@ -1,0 +1,338 @@
+[
+  {
+    "tada": {
+      "name": "Aceh",
+      "id": 8
+    },
+    "sicepat": {
+      "province_code": "11",
+      "province_name": "ACEH"
+    }
+  },
+  {
+    "tada": {
+      "name": "Bali",
+      "id": 7
+    },
+    "sicepat": {
+      "province_code": "51",
+      "province_name": "BALI"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "19",
+      "province_name": "KEPULAUAN BANGKA BELITUNG"
+    }
+  },
+  {
+    "tada": {
+      "name": "Banten",
+      "id": 2
+    },
+    "sicepat": {
+      "province_code": "36",
+      "province_name": "BANTEN"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "17",
+      "province_name": "BENGKULU"
+    }
+  },
+  {
+    "tada": {
+      "name": "DI Yogyakarta",
+      "id": 6
+    }
+  },
+  {
+    "tada": {
+      "name": "DKI Jakarta",
+      "id": 1
+    },
+    "sicepat": {
+      "province_code": "31",
+      "province_name": "DKI JAKARTA"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "75",
+      "province_name": "GORONTALO"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "15",
+      "province_name": "JAMBI"
+    }
+  },
+  {
+    "tada": {
+      "name": "Jawa Barat",
+      "id": 13
+    },
+    "sicepat": {
+      "province_code": "32",
+      "province_name": "JAWA BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": "Jawa Tengah",
+      "id": 4
+    },
+    "sicepat": {
+      "province_code": "33",
+      "province_name": "JAWA TENGAH"
+    }
+  },
+  {
+    "tada": {
+      "name": "Jawa Timur",
+      "id": 5
+    },
+    "sicepat": {
+      "province_code": "35",
+      "province_name": "JAWA TIMUR"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "61",
+      "province_name": "KALIMANTAN BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "63",
+      "province_name": "KALIMANTAN SELATAN"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "62",
+      "province_name": "KALIMANTAN TENGAH"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "64",
+      "province_name": "KALIMANTAN TIMUR"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "65",
+      "province_name": "KALIMANTAN UTARA"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "21",
+      "province_name": "KEPULAUAN RIAU"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "18",
+      "province_name": "LAMPUNG"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "81",
+      "province_name": "MALUKU"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "82",
+      "province_name": "MALUKU UTARA"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "52",
+      "province_name": "NUSA TENGGARA BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "53",
+      "province_name": "NUSA TENGGARA TIMUR"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "92",
+      "province_name": "PAPUA BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "92",
+      "province_name": "PAPUA BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "14",
+      "province_name": "RIAU"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "76",
+      "province_name": "SULAWESI BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "73",
+      "province_name": "SULAWESI SELATAN"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "72",
+      "province_name": "SULAWESI TENGAH"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "74",
+      "province_name": "SULAWESI TENGGARA"
+    }
+  },
+  {
+    "tada": {
+      "name": null,
+      "id": null
+    },
+    "sicepat": {
+      "province_code": "71",
+      "province_name": "SULAWESI UTARA"
+    }
+  },
+  {
+    "tada": {
+      "name": "Sumatera Barat",
+      "id": 10
+    },
+    "sicepat": {
+      "province_code": "13",
+      "province_name": "SUMATERA BARAT"
+    }
+  },
+  {
+    "tada": {
+      "name": "Sumatera Selatan",
+      "id": 11
+    },
+    "sicepat": {
+      "province_code": "16",
+      "province_name": "SUMATERA SELATAN"
+    }
+  },
+  {
+    "tada": {
+      "name": "Sumatera Utara",
+      "id": 9
+    },
+    "sicepat": {
+      "province_code": "12",
+      "province_name": "SUMATERA UTARA"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "tada": {
+      "name": "ACEH",
+      "id": 1
+    },
+    "shipper": {
+      "name": "Aceh",
+      "id": 21
+    }
+  },
+  {
+    "tada": {
+      "name": "BALI",
+      "id": 17
+    },
+    "shipper": {
+      "name": "Bali",
+      "id": 1
+    }
+  },
+  {
+    "tada": {
+      "name": "KEPULAUAN BANGKA BELITUNG",
+      "id": 9
+    },
+    "shipper": {
+      "name": "Bangka Belitung",
+      "id": 2
+    }
+  },
+  {
+    "tada": {
+      "name": "BANTEN",
+      "id": 16
+    },
+    "shipper": {
+      "name": "Banten",
+      "id": 3
+    }
+  },
+  {
+    "tada": {
+      "name": "BENGKULU",
+      "id": 7
+    },
+    "shipper": {
+      "name": "Bengkulu",
+      "id": 4
+    }
+  },
+  {
+    "tada": {
+      "name": "DI YOGYAKARTA",
+      "id": 14
+    },
+    "shipper": {
+      "name": "DI Yogyakarta",
+      "id": 5
+    }
+  },
+  {
+    "tada": {
+      "name": "DKI JAKARTA",
+      "id": 11
+    },
+    "shipper": {
+      "name": "DKI Jakarta",
+      "id": 6
+    }
+  },
+  {
+    "tada": {
+      "name": "GORONTALO",
+      "id": 29
+    },
+    "shipper": {
+      "name": "Gorontalo",
+      "id": 7
+    }
+  },
+  {
+    "tada": {
+      "name": "JAMBI",
+      "id": 5
+    },
+    "shipper": {
+      "name": "Jambi",
+      "id": 8
+    }
+  },
+  {
+    "tada": {
+      "name": "JAWA BARAT",
+      "id": 12
+    },
+    "shipper": {
+      "name": "Jawa Barat",
+      "id": 9
+    }
+  },
+  {
+    "tada": {
+      "name": "JAWA TENGAH",
+      "id": 13
+    },
+    "shipper": {
+      "name": "Jawa Tengah",
+      "id": 10
+    }
+  },
+  {
+    "tada": {
+      "name": "JAWA TIMUR",
+      "id": 15
+    },
+    "shipper": {
+      "name": "Jawa Timur",
+      "id": 11
+    }
+  },
+  {
+    "tada": {
+      "name": "KALIMANTAN BARAT",
+      "id": 20
+    },
+    "shipper": {
+      "name": "Kalimantan Barat",
+      "id": 12
+    }
+  },
+  {
+    "tada": {
+      "name": "KALIMANTAN SELATAN",
+      "id": 22
+    },
+    "shipper": {
+      "name": "Kalimantan Selatan",
+      "id": 13
+    }
+  },
+  {
+    "tada": {
+      "name": "KALIMANTAN TENGAH",
+      "id": 21
+    },
+    "shipper": {
+      "name": "Kalimantan Tengah",
+      "id": 14
+    }
+  },
+  {
+    "tada": {
+      "name": "KALIMANTAN TIMUR",
+      "id": 23
+    },
+    "shipper": {
+      "name": "Kalimantan Timur",
+      "id": 15
+    }
+  },
+  {
+    "tada": {
+      "name": "KALIMANTAN UTARA",
+      "id": 24
+    },
+    "shipper": {
+      "name": "Kalimantan Utara",
+      "id": 16
+    }
+  },
+  {
+    "tada": {
+      "name": "KEPULAUAN RIAU",
+      "id": 10
+    },
+    "shipper": {
+      "name": "Kepulauan Riau",
+      "id": 17
+    }
+  },
+  {
+    "tada": {
+      "name": "LAMPUNG",
+      "id": 8
+    },
+    "shipper": {
+      "name": "Lampung",
+      "id": 18
+    }
+  },
+  {
+    "tada": {
+      "name": "MALUKU",
+      "id": 31
+    },
+    "shipper": {
+      "name": "Maluku",
+      "id": 20
+    }
+  },
+  {
+    "tada": {
+      "name": "MALUKU UTARA",
+      "id": 32
+    },
+    "shipper": {
+      "name": "Maluku Utara",
+      "id": 19
+    }
+  },
+  {
+    "tada": {
+      "name": "NUSA TENGGARA BARAT",
+      "id": 18
+    },
+    "shipper": {
+      "name": "Nusa Tenggara Barat",
+      "id": 22
+    }
+  },
+  {
+    "tada": {
+      "name": "NUSA TENGGARA TIMUR",
+      "id": 19
+    },
+    "shipper": {
+      "name": "Nusa Tenggara Timur",
+      "id": 23
+    }
+  },
+  {
+    "tada": {
+      "name": "PAPUA",
+      "id": 34
+    },
+    "shipper": {
+      "name": "Papua",
+      "id": 25
+    }
+  },
+  {
+    "tada": {
+      "name": "PAPUA BARAT",
+      "id": 33
+    },
+    "shipper": {
+      "name": "Papua Barat",
+      "id": 24
+    }
+  },
+  {
+    "tada": {
+      "name": "RIAU",
+      "id": 4
+    },
+    "shipper": {
+      "name": "Riau",
+      "id": 26
+    }
+  },
+  {
+    "tada": {
+      "name": "SULAWESI BARAT",
+      "id": 30
+    },
+    "shipper": {
+      "name": "Sulawesi Barat",
+      "id": 27
+    }
+  },
+  {
+    "tada": {
+      "name": "SULAWESI SELATAN",
+      "id": 27
+    },
+    "shipper": {
+      "name": "Sulawesi Selatan",
+      "id": 28
+    }
+  },
+  {
+    "tada": {
+      "name": "SULAWESI TENGAH",
+      "id": 26
+    },
+    "shipper": {
+      "name": "Sulawesi Tengah",
+      "id": 29
+    }
+  },
+  {
+    "tada": {
+      "name": "SULAWESI TENGGARA",
+      "id": 28
+    },
+    "shipper": {
+      "name": "Sulawesi Tenggara",
+      "id": 30
+    }
+  },
+  {
+    "tada": {
+      "name": "SULAWESI UTARA",
+      "id": 25
+    },
+    "shipper": {
+      "name": "Sulawesi Utara",
+      "id": 31
+    }
+  },
+  {
+    "tada": {
+      "name": "SUMATERA BARAT",
+      "id": 3
+    },
+    "shipper": {
+      "name": "Sumatera Barat",
+      "id": 32
+    }
+  },
+  {
+    "tada": {
+      "name": "SUMATERA SELATAN",
+      "id": 6
+    },
+    "shipper": {
+      "name": "Sumatera Selatan",
+      "id": 33
+    }
+  },
+  {
+    "tada": {
+      "name": "SUMATERA UTARA",
+      "id": 2
+    },
+    "shipper": {
+      "name": "Sumatera Utara",
+      "id": 34
+    }
+  }
+]
